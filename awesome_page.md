@@ -8,4 +8,5 @@ Make a pull request like last time. The current navigator should review the diff
 
 ![Screenshot](https://github.com/rnose512/phase-0-gps-1/blob/master/screenshot.png)
 ![Screenshot2](./screenshot.png)
-rtyu
+gfhjk
+

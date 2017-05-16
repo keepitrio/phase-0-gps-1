@@ -12,4 +12,6 @@ Fetching and merging so that the other person working in the repo can get the ch
 At this point, there isn't much that confuses me, it's more about getting used to the flow and remembering everything I need to do.
 
 **How was your first experience of pairing in a GPS?**
+It was a great learning experience. Ashley and I worked really well together and Shawn was there to give us tips and tricks and get us on track when we were lost. 
+
 We learned that you can use a relative path to add images into a markdown file instead of using a URL, this allows the file to load faster since it doesn't have to go to GitHub to fetch the image.
